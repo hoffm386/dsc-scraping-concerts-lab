@@ -36,7 +36,7 @@ Start by importing the relevant libraries, making a request to the relevant URL,
 
 
 ```python
-EVENTS_PAGE_URL = "https://web.archive.org/web/20210325230938/https://ra.co/events/us/newyork?week=2019-03-30"
+EVENTS_PAGE_URL = "https://web.archive.org/web/20210326225933/https://ra.co/events/us/newyork?week=2019-03-30"
 
 # Exploration: making the request and parsing the response
 
